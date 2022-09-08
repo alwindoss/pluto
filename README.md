@@ -1,0 +1,2 @@
+# pluto
+Server Inventory Manager
